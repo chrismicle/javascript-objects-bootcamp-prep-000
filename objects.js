@@ -1,1 +1,1 @@
-var playlist = {}
+var playlist = {Judy Garland: "Jingle Bells"};
