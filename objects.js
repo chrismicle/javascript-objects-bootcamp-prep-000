@@ -9,10 +9,3 @@ function removeFromPlaylist(playlist, artistName){
   delete playlist[artistName];
   return playlist;
 }
-
-/*
-options
-1. `node` from learn terminal
-2. browser's javascript consoles
-3. https://repl.it/
-*/
