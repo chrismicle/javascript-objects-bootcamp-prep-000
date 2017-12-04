@@ -1,4 +1,4 @@
-var playlist = {Judy Garland: "Jingle Bells"};
+var playlist = {object};
 
 function updatePlaylist(playlist, artistName, songTitle){
   playlist[artistName] = songTitle;
